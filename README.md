@@ -1,2 +1,2 @@
 # Simple
-This is a simple examole
+This is a simple example
